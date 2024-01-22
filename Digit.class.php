@@ -8,6 +8,11 @@
  * @copyright Tomoaki Nagahara All right reserved.
  */
 
+/** namespace
+ *
+ */
+namespace OP;
+
 /** Digit
  *
  * @created   2017-01-19
