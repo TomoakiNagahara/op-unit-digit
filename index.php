@@ -1,10 +1,9 @@
 <?php
-/**
- * unit-digit:/index.php
+/** op-unit-digit:/index.php
  *
  * @created   2017-01-19
  * @version   1.0
- * @package   unit-sql
+ * @package   op-unit-digit
  * @author    Tomoaki Nagahara <tomoaki.nagahara@gmail.com>
  * @copyright Tomoaki Nagahara All right reserved.
  */
