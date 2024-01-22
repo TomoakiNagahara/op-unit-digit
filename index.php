@@ -8,6 +8,11 @@
  * @copyright Tomoaki Nagahara All right reserved.
  */
 
+/** namespace
+ *
+ */
+namespace OP;
+
 //	Include default class.
 if(!include(__DIR__."/Digit.class.php")){
 	Notice::Set("Include Digit.class.php was failed.");
