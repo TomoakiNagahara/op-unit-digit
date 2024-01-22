@@ -13,11 +13,8 @@
  */
 namespace OP;
 
-//	Include default class.
-if(!include(__DIR__."/Digit.class.php")){
-	Notice::Set("Include Digit.class.php was failed.");
-	return;
-}
+//	Load the Digit class.
+require_once(__DIR__."/Digit.class.php");
 
 /**
  *
