@@ -16,10 +16,7 @@ namespace OP;
 //	Load the Digit class.
 require_once(__DIR__."/Digit.class.php");
 
-/**
- *
- * Only ready.
- *
+/*
 spl_autoload_register(function ($name){
 	$path = __DIR__."/{$name}.class.php";
 	if( file_exists($path) ){
