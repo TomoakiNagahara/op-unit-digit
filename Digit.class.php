@@ -28,8 +28,7 @@ class Digit
 	 */
 	use OP_CORE;
 
-	/**
-	 * Checking to whether is 64 bit CPU (memory's bit).
+	/** Checking to whether is 64 bit CPU (bit of memory).
 	 *
 	 * @return boolean
 	 */
@@ -38,8 +37,7 @@ class Digit
 		return intval("9223372036854775807") === 9223372036854775807 ? true: false;
 	}
 
-	/**
-	 * Convert to easy to readable binary string.
+	/** Convert to easy to readable binary string.
 	 *
 	 * @param  integer $int
 	 * @param  integer $bit Number of digits
