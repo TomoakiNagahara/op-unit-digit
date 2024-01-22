@@ -1,20 +1,18 @@
 <?php
-/**
- * unit-digit:/Digit.class.php
+/** op-unit-digit:/Digit.class.php
  *
  * @created   2017-01-19
  * @version   1.0
- * @package   unit-digit
+ * @package   op-unit-digit
  * @author    Tomoaki Nagahara <tomoaki.nagahara@gmail.com>
  * @copyright Tomoaki Nagahara All right reserved.
  */
 
-/**
- * Digit
+/** Digit
  *
  * @created   2017-01-19
  * @version   1.0
- * @package   unit-japan
+ * @package   op-unit-digit
  * @author    Tomoaki Nagahara <tomoaki.nagahara@gmail.com>
  * @copyright Tomoaki Nagahara All right reserved.
  */
