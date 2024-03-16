@@ -26,7 +26,8 @@ class Digit
 	/** trait
 	 *
 	 */
-	use OP_CORE;
+	use \OP\OP_CORE;
+	use \OP\OP_CI;
 
 	/** Checking to whether is 64 bit CPU (bit of memory).
 	 *
